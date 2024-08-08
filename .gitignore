@@ -1,0 +1,82 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Rider directories
+.idea/
+*.sln.iml
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Npm packages
+node_modules/
+
+# TypeScript
+*.tsbuildinfo
+
+# Yarn
+.yarn/
+.yarnrc.yml
+.pnp.*
+
+# dotenv environment variables file
+.env
+
+# Visual Studio Code extension files
+.vscode/extensions.json
+
+# Mac
+*.DS_Store
+
+# Microsoft Azure Build Output
+csx/
+*.build.csdef
+
+# Windows
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.csproj.user
+*.pyc
+*.vspscc
+*.vssscc
+
+# User-specific files (Mono)
+*.userprefs
+
+# Roslyn Cache Files
+*.ide
+
+# ASP.NET MVC
+_Project_Readme.html
